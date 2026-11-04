@@ -1295,3 +1295,7 @@ body.dark-mode .edit-message-button:hover {
     color: #a5b4fc;
     border-color: #818cf8;
 }
+.logo-icon {
+    object-fit: cover;
+    flex-shrink: 0;
+}
