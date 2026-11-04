@@ -1,4 +1,4 @@
-﻿Flask
+Flask
 Flask-Limiter
 google-genai
 python-dotenv
